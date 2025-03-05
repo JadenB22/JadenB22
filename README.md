@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jaden Barron</h1>
 <h3 align="center">A junior software engineer/ full stack developer</h3>
 
+<p>A software engineer with a passion for creating clean, efficient, and user-friendly applications. I’m always learning and experimenting with new technologies to improve my skills and bring innovative solutions to life. Whether it's building intuitive front-end interfaces or developing scalable back-end systems, I love tackling challenges and turning them into seamless, functional products.</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadenb22" alt="jadenb22" /></a> </p>
 
 - 🔭 I’m currently working on [Se_project_spots](https://github.com/JadenB22/se_project_spots)
